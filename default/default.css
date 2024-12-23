@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:auto;}
+.khung{
+	width:960px;
+	heigth:160px;
+	border:1px solid
+}
+nav a{
+	padding-right: 10px;
+	font-weight: bold;
+	padding-top:10px;
+	color:black;
+	text-decoration: none;
+}
+nav{
+	float:left;
+	padding-top:10px;
+}
+.phai{
+	float:right;
+	padding-top:10px;
+}
+.anh{
+	width: 960px;
+}
+nav a:hover{
+	color: rosybrown;
+}
